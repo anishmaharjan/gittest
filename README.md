@@ -15,7 +15,7 @@ git add .
 git commit -m "modified"
 
 //3
-git remote add origin https://github.com/alksjdfsdf/
+git remote add origin https://github.com/anishmaharjan/gittest
 
 git push origin master
 
